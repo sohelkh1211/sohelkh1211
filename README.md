@@ -5,7 +5,7 @@
 
 `Strings of Creativity, Lines of Logic: Full Stack Mastery Unleashed.`
 
-- 🧑‍💻 I’m currently working on **Fitness Exercise App**
+- 🧑‍💻 I’m currently working on **Plant Disease Classification App**
 
 - 🌱 I’m currently learning **MongoDB, Nodejs and AWS ☁️**
 
