@@ -5,13 +5,9 @@
 
 `Strings of Creativity, Lines of Logic: Full Stack Mastery Unleashed.`
 
-- 🧑‍💻 I’m currently working on **Plant Disease Classification App**
-
 - 🌱 I’m currently learning **MongoDB, Nodejs and AWS ☁️**
 
-- 💞️ I’m looking to collaborate on **ML, frontend based projects**
-
-- 💬 Ask me about **Reactjs, TailwindCSS and MaterialUI**
+- 💞️ I’m looking to collaborate on **Full stack projects**
 
 - 📫 How to reach me **khansohailabdussalam207@gmail.com**
   
@@ -31,7 +27,13 @@
 <a href="https://leetcode.com/user0337ei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user0337ei/" height="30" width="40" /></a>
 </p>
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" alt="LeetCode Badges"/>
+<h1 align="center">LeetCode Badges 🏅</h1>
+<div align-left="20px" display="grid" grid-template-rows="repeat(4, minmax(0, 1fr))" grid-template-columns="repeat(4, minmax(0, 1fr))" border="solid 1px black">
+  <img width="100" href="" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" align="center" alt="LeetCode Badges"/>
+  <img width="100" href="" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" align="center" alt="LeetCode Badges"/>
+  
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
